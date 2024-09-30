@@ -1,4 +1,4 @@
-- image and data analytics codes 
+Image and data analytics codes 
 
 <!---
 gsoujanya1/gsoujanya1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
